@@ -19,7 +19,7 @@ This project strictly uses **pnpm**. Do not use npm or yarn.
 
 ## Architecture
 
-This is a TypeScript Next.js 15 starter template for AI-powered applications with a travel agent theme:
+This is a TypeScript Next.js 15 architecture for AI-powered applications with a management agent theme:
 
 ### Core Stack
 
